@@ -11,4 +11,10 @@
 ## Quarterly Users
 - **Username5**: Seasonal shopper, quarterly purchases.
 - **Username6**: Infrequent visitor, occasional buys.
-
+- 
+## Loyal User Profile
+- **Discount**: 15% off on all orders
+- **Requirements**: Minimum of 10 purchases in the last 6 months
+  
+  ## Coffehut_Wallet Payment Option
+- **Discount**: 10% off on all purchases
